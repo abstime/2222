@@ -7,10 +7,6 @@ ifeq ($(CONFIG_CUSTOM_KERNEL_LCM),"otm1283a_hd720_dsi_vdo")
 obj-y   +=  otm1283a_hd720_dsi_vdo.o
 endif
 
-ifeq ($(CONFIG_CUSTOM_KERNEL_LCM),"otm1283a_hd720_dsi_vdo_tm")
-obj-y   +=  otm1283a_hd720_dsi_vdo_tm.o
-endif
-
 ifeq ($(CONFIG_CUSTOM_KERNEL_LCM),"otm1283a_dsi_vdo_trust_hd720_ips")
 obj-y   +=  otm1283a_dsi_vdo_trust_hd720_ips.o
 endif

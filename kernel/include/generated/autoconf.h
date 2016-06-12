@@ -680,7 +680,7 @@
 #define CONFIG_UNCOMPRESS_INCLUDE "mach/uncompress.h"
 #define CONFIG_PRINTK_PROCESS_INFO 1
 #define CONFIG_MTK_PLATFORM "mt6582"
-#define CONFIG_CUSTOM_KERNEL_LCM "otm1283a_hd720_dsi_vdo otm1283a_hd720_dsi_vdo_dijing"
+#define CONFIG_CUSTOM_KERNEL_LCM "otm1283a_hd720_dsi_vdo otm1283a_hd720_dsi_vdo_dijing otm1283a_hd720_dsi_vdo_tm otm1283a_dsi_vdo_trust_hd720_ips"
 #define CONFIG_MISC_FILESYSTEMS 1
 #define CONFIG_FTRACE 1
 #define CONFIG_IP_NF_RAW 1
