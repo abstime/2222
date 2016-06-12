@@ -1,1 +1,0 @@
-#ptgen script for Kernel
