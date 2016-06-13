@@ -1522,7 +1522,7 @@ static unsigned int lcm_esd_recover(void)
 // ---------------------------------------------------------------------------
 LCM_DRIVER otm1283a_hd720_dsi_vdo_lcm_drv = 
 {
-    .name			= "sanstar_mt6582m_dsi_otm1283a_dsi_vdo_s823_6582",
+    .name			= "otm1283a_hd720_dsi_vdo",
 	.set_util_funcs = lcm_set_util_funcs,
 	.get_params     = lcm_get_params,
 	.init           = lcm_init,
